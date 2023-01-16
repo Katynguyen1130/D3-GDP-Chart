@@ -1,0 +1,16 @@
+
+body {
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.bar:hover {
+    fill: lightgreen;
+    cursor: pointer;
+}
+.chart {
+    padding: 40px;
+}
