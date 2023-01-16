@@ -11,6 +11,26 @@ body {
     fill: lightgreen;
     cursor: pointer;
 }
-.chart {
-    padding: 40px;
+#chart {
+    width: 1000px; 
+    height: 600px;
+}
+
+#tooltip {
+    
+    background-color: #A59132;
+    border-radius: 2px;
+    margin: 0;
+    padding: 0;    
+    color: white;  
+    
+    align-items: center;
+   
+   
+
+}
+#tooltip  p {
+line-height: 15px;
+text-align: center;
+font-size:12px;
 }
